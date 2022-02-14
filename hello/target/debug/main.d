@@ -1,0 +1,1 @@
+C:\Users\robby\OneDrive\Documents\minthril\rust\hello\target\debug\main.exe: C:\Users\robby\OneDrive\Documents\minthril\rust\hello\src\bin\main.rs C:\Users\robby\OneDrive\Documents\minthril\rust\hello\src\lib.rs
